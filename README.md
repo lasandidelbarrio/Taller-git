@@ -1,5 +1,9 @@
 # Taller-git
-<img width="1084" height="317" alt="imagen" src="https://github.com/user-attachments/assets/e37a5bf3-4f55-4b9e-bd9b-80b71d73db11" />
+
+
+[![DOI](https://zenodo.org/badge/1078107354.svg)](https://doi.org/10.5281/zenodo.17467409)
+
+
 
 Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
 
